@@ -10,3 +10,4 @@
 
 // Konsolen-Ausgaben
 // console.log("Hallo");
+// console.log(firstnane);
