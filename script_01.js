@@ -24,3 +24,7 @@
 
 /*****    03 Deklaration + Wertzuweisung      ********** */
 
+let firstname, familynName;
+firstname = prompt ("Bitte Vornamen eingeben");
+familynName = prompt ("Bitte Nachnamen eingeben");
+console.log(firstname + " " + familynName)
