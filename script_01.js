@@ -42,7 +42,17 @@
 
 
 /*****    03a Konstanten  ********** */
-const test = "Hi"; // Variable mit KONSTANTEM Inhalt
-// test = "Hallo"; // KEINE neue Zuweisung  zur LZ möglich! --> Fehler
+// const test = "Hi"; // Variable mit KONSTANTEM Inhalt
+// // test = "Hallo"; // KEINE neue Zuweisung  zur LZ möglich! --> Fehler
 
-console.log("Inhalt:  " + test); // Ausgabe
+// console.log("Inhalt:  " + test); // Ausgabe
+
+/*****    04  Beispiel ********** */
+
+// Deklaration
+let ageJohn, ageMark;
+let birthYearJohn, birthYearMark;
+
+// Wertzuweisung
+ageJohn = 25;
+ageMark = 30;
